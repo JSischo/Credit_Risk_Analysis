@@ -11,12 +11,18 @@
 ## Results
 ### Balanced Accuracy Score and the precision and recall scores
 
-- ![](Resources/nos_as.png) Naive Oversampling      
-- SMOTE Oversampling      ![](Resources/smoteos_as.png)
-- Undersampling           ![](Resources/us_as.png)
-- Combination Sampling    ![](Resources/combo_as.png)
-- BRF Classifier          ![](Resources/brf_as.png)
-- Easy Enseble Classifier ![](Resources/eec_as.png)
+- ![](Resources/nos_as.png) 
+  - Naive Oversampling  
+- ![](Resources/smoteos_as.png)
+  - SMOTE Oversampling
+- ![](Resources/us_as.png)
+  - Undersampling
+- ![](Resources/combo_as.png)
+  - Combination Sampling    
+- ![](Resources/brf_as.png)
+  - BRF Classifier          
+- ![](Resources/eec_as.png)
+  - Easy Ensemble Classifier 
 ### Precision and Recall scores  
 
 ## Summary
