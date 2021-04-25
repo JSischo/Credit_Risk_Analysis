@@ -41,6 +41,7 @@
 - ![](Resources/eec_pr.png)
   - ***Easy Ensemble Classifier***
 #### Discussion
->
+> The precision of a model is a measure of the reliability of the model. In other words, how likely is a prediced result likely to be correct. In all the models that I utilized, none of them had a high precision for predicting high risk borrowers, ranging from .01 - .09%, with the EEC model being the highest. On the flip side, all models had excellent precision when looking at the low risk borrowers, with all of them having 100% precision. 
+> The recall measure of a model, provides a measure of how well the model was able to accurately predict when a condition does or does not exist. So did it actually catch all of the high risk and low risk loan applicants in this case. Of extreme importance when assessing credit risk is a models ability to correctly identify the high risk applicants. We would like the measure of recall to be near 100%. For the models that I used, the over/under sampling models performed the worst in high risk recall at only between 65-67%. The BRF classifier was slightly better at 70%. The two best performing models were ther combination sampling and EEC models, measuring at 80% and 92% respectively.  
 ## Summary
 
