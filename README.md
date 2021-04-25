@@ -11,7 +11,8 @@
 ## Results
 ### Balanced Accuracy Score and the precision and recall scores
 
-!['Naive Oversampling'](Resources/nos_as.png)!['SMOTE Oversampling'](Resources/smoteos_as.png)
+![](Resources/nos_as.png)
+*'Naive Oversampling'*
 * Analysis of the results for the Vine sub-set of reviews reveals:
   * n=170 reviews.
   * There were ***65*** **"5 star"** reviews.
