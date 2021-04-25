@@ -40,5 +40,7 @@
   - ***BRF Classifier***
 - ![](Resources/eec_pr.png)
   - ***Easy Ensemble Classifier***
+#### Discussion
+>
 ## Summary
 
