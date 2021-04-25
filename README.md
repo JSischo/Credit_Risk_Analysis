@@ -23,6 +23,8 @@
   - ***BRF Classifier***
 - ![](Resources/eec_as.png)
   - ***Easy Ensemble Classifier***
+#### Discussion
+>
   
 ### Precision and Recall scores  
 
