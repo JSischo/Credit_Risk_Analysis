@@ -24,9 +24,21 @@
 - ![](Resources/eec_as.png)
   - ***Easy Ensemble Classifier***
 #### Discussion
->
+> The accuracy of a learning model is a measure of what percentage of the testing set the model predicted correctly. There does seem to be some variation in the accuracy score of the different models. In general, the Undersampling method seemed to perform the worst at only 56%, whereas the Oversampling and Combination methods seemed to perfrom slightly better at around 66-69%. When I utilized the ensemble models, Balanced Random Forest and Easy Ensemble Classifiers, the accuracy increased to 79% and 93% respectively. 
+> So, it does seem that the ensemble methods ourperformed the over/under sampling models fairly signficantly with the Easy Ensemble Classified being the most accurate. 
   
 ### Precision and Recall scores  
-
+- ![](Resources/nos_pr.png) 
+  - ***Naive Oversampling***
+- ![](Resources/smoteos_pr.png)
+  - ***SMOTE Oversampling***
+- ![](Resources/us_pr.png)
+  - ***Undersampling***
+- ![](Resources/combo_pr.png)
+  - ***Combination Sampling***
+- ![](Resources/brf_pr.png)
+  - ***BRF Classifier***
+- ![](Resources/eec_pr.png)
+  - ***Easy Ensemble Classifier***
 ## Summary
 
