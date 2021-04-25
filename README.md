@@ -11,7 +11,7 @@
 ## Results
 ### Balanced Accuracy Score and the precision and recall scores
 
-- Naive Oversampling      ![](Resources/nos_as.png)
+- ![](Resources/nos_as.png) Naive Oversampling      
 - SMOTE Oversampling      ![](Resources/smoteos_as.png)
 - Undersampling           ![](Resources/us_as.png)
 - Combination Sampling    ![](Resources/combo_as.png)
